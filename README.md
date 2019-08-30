@@ -14,9 +14,9 @@ Project 0 Getting Started
 ![](images/webGL_test.png)
 
 ## DXR support
-float3 barycentrics = float3(0, 0, 0.42);
+`float3 barycentrics = float3(0, 0, 0.42);`
 
-![](images/dxr_modified_triangle.png)
+![](images/dxr_modified_triangle.PNG)
 
 ## Build and Run: getting-started
 
