@@ -31,6 +31,8 @@ Timeline report
 index is set to 4200 
 
 ![](images/autos_tab.png)
+
 `Nsight` -> `Windows` -> `CUDA Info` -> `CUDA Info 1` was not present. Instead screenshot is of `Nsight` -> `Windows` -> `Warp Info`
+
 ![](images/warp_info.png)
 
