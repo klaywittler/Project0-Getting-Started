@@ -9,20 +9,27 @@ Project 0 Getting Started
 
 
 ## WebGL support
+
 ![](images/webGL_report.png)
 ![](images/webGL_test.png)
 
 ## DXR support
+float3 barycentrics = float3(0, 0, 0.42);
+
 ![](images/dxr_modified_triangle.png)
 
 ## Build and Run: getting-started
+
 ![](images/getting-started_cpp.png)
 
 ## Analysis
+Timeline report
+
 ![](images/nsight_timeline_report.png)
 
 ## Nsight Debugging
 index is set to 4200 
+
 ![](images/autos_tab.png)
 ![](images/warp_info.png)
 
